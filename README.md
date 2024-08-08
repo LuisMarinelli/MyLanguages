@@ -1,2 +1,3 @@
 # MyLanguages
-This is a simple midia to show my Programs Languages that I use. Feels free to use too (if it yours language)! 
+
+This is a simple mídia file to show the languages ​​of the programs that I use. Feel free to use it too - if it's your language!
